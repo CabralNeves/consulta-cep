@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 # Windows:
 echo # Python > .gitignore
 echo __pycache__/ >> .gitignore
 echo *.pyc >> .gitignore
 echo .env >> .gitignore
 echo .vscode/ >> .gitignore
+=======
+# .gitignore
+venv/
+__pycache__/
+.env
+.streamlit/
+*.pyc
+.vscode/
+>>>>>>> b45c4654b9794f22d302751245e20d2fbccf98fe
